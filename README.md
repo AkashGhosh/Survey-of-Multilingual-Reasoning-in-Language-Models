@@ -20,11 +20,9 @@
 
 ## About the Paper
 **“Survey of Multilingual Reasoning in Language Models”**, provides the first in-depth review of multilingual reasoning in LMs. 
-- systematic overview of existing methods that leverage LMs for multilingual reasoning, specifically outlining the challenges, motivations, and foundational aspects of applying language models to reason across diverse languages. 
-
+- Systematic overview of existing methods that leverage LMs for multilingual reasoning, specifically outlining the challenges, motivations, and foundational aspects of applying language models to reason across diverse languages. 
 - Overview of the standard data resources used for training multilingual reasoning in LMs and the evaluation benchmarks employed to assess their multilingual capabilities. 
-
-- analyze various state-of-the-art methods and their performance on these benchmarks. 
+- Analysis of various state-of-the-art methods and their performance on these benchmarks. 
 - Explore future research opportunities to improve multilingual reasoning in LMs, focusing on enhancing their ability to handle diverse languages and complex reasoning tasks.
 
 
